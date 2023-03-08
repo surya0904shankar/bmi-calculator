@@ -1,6 +1,7 @@
 //first c++ program
 //calculating bmi
 #include <iostream>
+using namespace std;
 int main(){
     float weight;
     int height;
